@@ -1,3 +1,6 @@
 [submodule "third_party/libbase"]
 	path = third_party/libbase
 	url = https://github.com/RippeR37/libbase
+[submodule "third_party/glog"]
+	path = third_party/glog
+	url = https://github.com/google/glog
